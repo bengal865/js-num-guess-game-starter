@@ -1,15 +1,29 @@
 ﻿## Overview
 
-In this project, you'll learn how to:
+Build a JavaScript number guess game that:
 
- - return a value from a function
- - pass a value or values from one function to another
+ - generates a random number between 1 and 100
+ - gives the user 10 tries to guess the mystery number
+ - tells users if their guess was too high or too low
+ - keeps track of users' previous guesses
+ - changes the background color of the user's guess to red if the guess was incorrect
+ - changes the background color of the user's guess to green if the guess was correct
+ - tells the user the game is over if the user doesn't guess the mystery number in 10 (or fewer) tries
+ - uses a function to check the user's guess
+ - uses a function to add a RESET button to the page
+ - uses a function to reset the game so the user can play again
 
-## Files
+## Your GitHub Repo
 
- - index.html
- - main.js
- - styles.css
+ - Duplicate the starter repo and name your copy of the repo: **num-guess-game-js**
+ - Submit the URL for your repo on Google Classroom
+
+## Sample Output
+
+Your finished game will look similar to these examples:
+
+![Guessed the mystery number](mdn-num-guess-final.png "Winning the game")
+![Option to play again](mdn-num-guess-new-game.png "Starting a new game")
 
 ## Helpful Resources
 
