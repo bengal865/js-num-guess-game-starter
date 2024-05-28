@@ -39,7 +39,7 @@ Your finished game will look similar to these examples:
 
 ## Directions
 
- - Follow the instructions on Google Classroom for each part of this project (1 - 5)
+ - Follow the instructions on Google Classroom for each part of this project 
 
 
       
